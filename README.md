@@ -42,9 +42,9 @@ python dynamic_ssim_multimodel/multimodel_predictor.py
 ## Credits
 If you consider our work useful, please consider citing:
 
-  @article{
-    title={Deep 3D Model Optimization for Immersive and Interactive Applications},
-    authors={Camuffo, Elena and Battisti, Federica and Pham, Francesco and Milani, Simone},
-    journal={European Workshop on Visual Information Processing (EUVIP)},
-    year={2022}
-    }
+      @article{
+        title={Deep 3D Model Optimization for Immersive and Interactive Applications},
+        authors={Camuffo, Elena and Battisti, Federica and Pham, Francesco and Milani, Simone},
+        journal={European Workshop on Visual Information Processing (EUVIP)},
+        year={2022}
+        }
