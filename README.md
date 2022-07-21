@@ -1,5 +1,5 @@
 # Deep 3D Optimization
-*Elena Camuffo, Federica Battisti, Francesco Pham, Simone Milani - EUVIP 2022 [paper]*
+*Elena Camuffo, Federica Battisti, Francesco Pham, Simone Milani - EUVIP 2022 [[paper](https://github.com/elenacamuffo/elenacamuffo.github.io/tree/main/download)]*
 
 ![pipeline_my](https://user-images.githubusercontent.com/63043735/174303186-6cc17e57-3c83-4a2a-835b-bf433db31b89.png)
 
@@ -42,9 +42,9 @@ python dynamic_ssim_multimodel/multimodel_predictor.py
 ## Credits
 If you consider our work useful, please consider citing:
 
-      @article{
+      @article{camuffo2022deep,
         title={Deep 3D Model Optimization for Immersive and Interactive Applications},
-        authors={Camuffo, Elena and Battisti, Federica and Pham, Francesco and Milani, Simone},
+        author={Camuffo, Elena and Battisti, Federica and Pham, Francesco and Milani, Simone},
         journal={European Workshop on Visual Information Processing (EUVIP)},
         year={2022}
         }
